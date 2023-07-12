@@ -1,0 +1,32 @@
+.fa{
+    font-size: 30px;
+    padding: 10px;
+    transition: all 0.5s;
+    /* border-radius: 50%; */
+}
+.fa:hover{
+    transform: rotate(10deg);
+    transition: all 0.5s;
+    color: blue;
+}
+.fa-facebook{
+    background-color: inherit;
+    /* color: blue; */
+}
+/* .fa-facebook:hover{
+    background-color: inherit;
+    color: blue;
+} */
+.fa-youtube{
+    background-color: inherit;
+    color: red;
+}
+.fa-instagram{
+    background-color: inherit;
+    color: rgb(230, 30, 63);
+}
+
+#Footer a{
+    color: black;
+    text-decoration: none;
+}
